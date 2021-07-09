@@ -1,2 +1,2 @@
 # Vintage-Store
-Website using mern stack
+Website using MERN stack
